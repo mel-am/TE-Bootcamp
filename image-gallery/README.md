@@ -20,10 +20,10 @@ Use client-side JavaScript to navigate between images using the keyboard (tab, e
 
 The thumbnails change the background as required and a large image appeared when the container-image was clicked on.
 
-I was able to use the  Unsplash API up and running on the page, but due to the hourly limit and mypage refresh, I was unable to check that it was working correctly, so instead opted to use static images.
+I was able to use the  Unsplash API up and running on the page, but due to the hourly limit and frequent page refreshes, I was unable to check that it was working correctly, so instead opted to use static images.
 
 
-The Lighthouse score for Performance,accessiblity and SEO are 100.
+The Lighthouse score for Performance,accessibility and SEO are 100.
 
 ### Sticky points
 

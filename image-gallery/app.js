@@ -78,13 +78,13 @@ createBigImage(images[0]);
 
 
 function createImage(image) {
-  imgContainer.innerHTML = ''
+  imageContainer.innerHTML = ''
   console.log(image)
   let imgTag = document.createElement('img')
   imgTag.src = image.urls.regular
   imgTag.alt = image.alt_description
 
-  imgContainer.appendChild(imgTag)
+  imageContainer.appendChild(imgTag)
 }
 
 imageContainer.addEventListener("keydown", function(event) {
