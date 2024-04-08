@@ -1,0 +1,32 @@
+
+.image-container {
+    background: #bb7d7d;
+    height: 100%;
+    width: 100%;
+    position:relative;
+    border: 10px solid lightcoral;
+    padding: 10px, white;
+    margin: 10px;
+  }
+  h2 {
+    color: pink;
+    font-size: 2rem;
+    padding: 20px;
+    position:absolute;
+    top: 0;
+    left: 0;
+  }
+  .cookie-notice {
+    background-color: rgb(202, 110, 202);
+    color: #fff;
+    padding: 16px;
+    border: 1px solid #ccc;
+    font-size: 32px;
+    font-family: Arial;
+    border-radius: 10px;
+    position: fixed;
+    bottom: 0;
+    left: 1%;
+    right: 1%;
+    width: 98%;
+}
